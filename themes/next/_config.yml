@@ -353,8 +353,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: sxwei123de-bo-ke
   count: true
 
 # Hypercomments
